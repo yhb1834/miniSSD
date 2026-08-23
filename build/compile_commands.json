@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/Users/leehanbyeol/Desktop/miniSSD/build",
+  "command": "/usr/bin/clang++  -I/Users/leehanbyeol/Desktop/miniSSD/include -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk -mmacosx-version-min=15.7 -std=gnu++17 -o CMakeFiles/minissd.dir/src/main.cpp.o -c /Users/leehanbyeol/Desktop/miniSSD/src/main.cpp",
+  "file": "/Users/leehanbyeol/Desktop/miniSSD/src/main.cpp"
+},
+{
+  "directory": "/Users/leehanbyeol/Desktop/miniSSD/build",
+  "command": "/usr/bin/clang++  -I/Users/leehanbyeol/Desktop/miniSSD/include -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk -mmacosx-version-min=15.7 -std=gnu++17 -o CMakeFiles/minissd.dir/src/Page.cpp.o -c /Users/leehanbyeol/Desktop/miniSSD/src/Page.cpp",
+  "file": "/Users/leehanbyeol/Desktop/miniSSD/src/Page.cpp"
+},
+{
+  "directory": "/Users/leehanbyeol/Desktop/miniSSD/build",
+  "command": "/usr/bin/clang++  -I/Users/leehanbyeol/Desktop/miniSSD/include -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk -mmacosx-version-min=15.7 -std=gnu++17 -o CMakeFiles/minissd.dir/src/Block.cpp.o -c /Users/leehanbyeol/Desktop/miniSSD/src/Block.cpp",
+  "file": "/Users/leehanbyeol/Desktop/miniSSD/src/Block.cpp"
+},
+{
+  "directory": "/Users/leehanbyeol/Desktop/miniSSD/build",
+  "command": "/usr/bin/clang++  -I/Users/leehanbyeol/Desktop/miniSSD/include -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk -mmacosx-version-min=15.7 -std=gnu++17 -o CMakeFiles/minissd.dir/src/NAND.cpp.o -c /Users/leehanbyeol/Desktop/miniSSD/src/NAND.cpp",
+  "file": "/Users/leehanbyeol/Desktop/miniSSD/src/NAND.cpp"
+},
+{
+  "directory": "/Users/leehanbyeol/Desktop/miniSSD/build",
+  "command": "/usr/bin/clang++  -I/Users/leehanbyeol/Desktop/miniSSD/include -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk -mmacosx-version-min=15.7 -std=gnu++17 -o CMakeFiles/minissd.dir/src/FTL.cpp.o -c /Users/leehanbyeol/Desktop/miniSSD/src/FTL.cpp",
+  "file": "/Users/leehanbyeol/Desktop/miniSSD/src/FTL.cpp"
+}
+]
